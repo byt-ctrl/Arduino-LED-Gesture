@@ -40,14 +40,7 @@ Ever dreamt of controlling your Arduino LEDs just by raising your hand? With thi
 3. Select your Arduino Uno and the correct port.
 4. Click **Upload** to upload the Firmata firmware to your Arduino.
 
-### 2️⃣ Clone the Repository
-
-1. Open terminal and run:
-   ```bash
-   git clone https://github.com/byt-ctrl/Arduino-LED-Gesture.git
-   cd Arduino-LED-Gesture
-   
-### 3️⃣ Upload the Python Script
+### 2️⃣ Upload the Python Script
 
 1. Open `controller.py` in a code editor.
 2. Make sure the Arduino port is specified to it.
