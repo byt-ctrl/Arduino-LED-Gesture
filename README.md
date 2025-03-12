@@ -53,10 +53,7 @@ Ever dreamt of controlling your Arduino LEDs just by raising your hand? With thi
 2. Make sure the Arduino port is specified to it.
 3. Save any changes if necessary in future.
 4. Upload the `controller.py` file into Arduino.
-
-### 4️⃣ Run the Main Python Script
-
-1. Now run the main Python script i.e , (`main-python-file.py`) to start controlling LEDs using hand gestures.
+5. Now run the main Python script i.e , (`main-python-file.py`) to start controlling LEDs using hand gestures.
 
 ---
 
